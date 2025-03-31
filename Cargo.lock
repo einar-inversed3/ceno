@@ -1578,7 +1578,7 @@ dependencies = [
 [[package]]
 name = "nimue"
 version = "0.2.0"
-source = "git+https://github.com/arkworks-rs/nimue#3a83250d9e30046be464753901430710232561fc"
+source = "git+https://github.com/einar-inversed3/nimue#0e584985d78ec92f583d098bd6e0d0dbb189be0f"
 dependencies = [
  "ark-ec",
  "ark-ff",
@@ -1594,7 +1594,7 @@ dependencies = [
 [[package]]
 name = "nimue-pow"
 version = "0.1.0"
-source = "git+https://github.com/arkworks-rs/nimue#3a83250d9e30046be464753901430710232561fc"
+source = "git+https://github.com/einar-inversed3/nimue#0e584985d78ec92f583d098bd6e0d0dbb189be0f"
 dependencies = [
  "blake3",
  "bytemuck",
